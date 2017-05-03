@@ -1,0 +1,21 @@
+{
+    "name": "maddog043/separatedpager",
+    "description": "Yii2 LinkPager displays a few pages before and after the current page and first and last pages",
+    "type": "yii2-extension",
+    "keywords": ["yii2","linkpager","pagination"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yury Golovanov",
+            "email": "golovanovya@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "maddog043\\separatedpager\\": ""
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
